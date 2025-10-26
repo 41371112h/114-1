@@ -11,4 +11,5 @@ Markdown 語法說明：https://markdown.tw/
 -[HW2成績一本通](https://github.com/41371112h/114-1/blob/e662ce25b740a55bc9d371f6ced808faa61ccb94/HW2%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A.ipynb)  
 -[HW3待辦清單與番茄鐘紀錄](https://github.com/41371112h/114-1/blob/fac9959d1361165264ca14bb96322f23975b9349/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)  
 [csv檔](https://github.com/41371112h/114-1/blob/638f79450b0414578476172464a5dc916045767e/tasks_20251026_173648.csv)
-[json檔](https://github.com/41371112h/114-1/blob/638f79450b0414578476172464a5dc916045767e/tasks_20251026_173648.json)
+[json檔](https://github.com/41371112h/114-1/blob/638f79450b0414578476172464a5dc916045767e/tasks_20251026_173648.json)  
+-[HW4文字資料小分析](https://github.com/41371112h/114-1/blob/2020612a9113b1d38db9770d8735b3a299aa9915/HW4%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
