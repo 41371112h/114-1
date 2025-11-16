@@ -36,7 +36,7 @@ Markdown 語法說明：https://markdown.tw/
 
 1️⃣ 資料擷取（Data Fetching）——從 Google Sheet 自動讀取整學期課表  
 透過 gspread 連接 Google 試算表  
-自動讀取你建立好的「整學期紀錄」分頁  
+自動讀取建立好的「整學期紀錄」分頁  
 作為所有 AI 判斷與摘要的資料來源    
 
 2️⃣ AI 行前提醒生成 ——Gemini 自動撰寫每堂課前的小提醒  
