@@ -51,6 +51,11 @@ Markdown 語法說明：https://markdown.tw/
 若勾選「回寫」，會自動：  
 在 Google Sheet 建立新分頁（例：週摘要_2025-09-01）  
 將該週課程＋AI 提醒寫入表格  
-<img width="839" height="175" alt="image" src="https://github.com/user-attachments/assets/4cd5e17f-2d73-42a7-85ab-679867dc9ecf" />
+<img width="839" height="175" alt="image" src="https://github.com/user-attachments/assets/4cd5e17f-2d73-42a7-85ab-679867dc9ecf" />  
+
+程式語言專題  
+--  
+[repo連結](https://github.com/41371103hjnh/Programming_Project/tree/main)
+
 
 
